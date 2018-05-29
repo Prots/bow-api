@@ -1,0 +1,7 @@
+{
+    "HTTPListenURL":    "0.0.0.0:8080",
+    "HTTPReadTimeout":  15,
+    "HTTPWriteTimeout": 15,
+    "HTTPIdleTimeout":  15,
+    "HTTPGraceTimeout": 60
+}
